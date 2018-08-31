@@ -20,7 +20,7 @@ body, html {
  .terminal {
      background: transparent;
      position: absolute;
-     left: 25%;
+     left: 50%;
      top: 25%;
      margin-top: -50px;
      margin-left: -125px;
