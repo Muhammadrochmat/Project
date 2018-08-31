@@ -20,8 +20,8 @@ body, html {
  .terminal {
      background: transparent;
      position: absolute;
-     left: 50%;
-     top: 50%;
+     left: 25%;
+     top: 25%;
      margin-top: -50px;
      margin-left: -125px;
      text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.4);
